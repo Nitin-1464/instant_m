@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866255811389",
+    "project_id": "instant-a6e50",
+    "storage_bucket": "instant-a6e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866255811389:android:c2b685f7b10239b2790b54",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC92-To0G8oCKwe-vvhRNbeGa4NqCgZPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
